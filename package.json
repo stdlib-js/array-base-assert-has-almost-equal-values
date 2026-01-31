@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-assert-has-almost-equal-values",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test if two arrays have respective elements which are approximately equal within a specified number of ULPs (units in the last place).",
   "license": "Apache-2.0",
   "author": {
@@ -41,9 +41,9 @@
     "@stdlib/array-base-assert-is-booleanarray": "^0.0.2",
     "@stdlib/array-base-assert-is-complex128array": "^0.2.2",
     "@stdlib/array-base-assert-is-complex64array": "^0.2.2",
-    "@stdlib/assert-is-almost-equal": "github:stdlib-js/assert-is-almost-equal#main",
-    "@stdlib/number-float32-base-assert-is-almost-equal": "github:stdlib-js/number-float32-base-assert-is-almost-equal#main",
-    "@stdlib/number-float64-base-assert-is-almost-equal": "github:stdlib-js/number-float64-base-assert-is-almost-equal#main",
+    "@stdlib/assert-is-almost-equal": "^0.1.0",
+    "@stdlib/number-float32-base-assert-is-almost-equal": "^0.1.0",
+    "@stdlib/number-float64-base-assert-is-almost-equal": "^0.1.0",
     "@stdlib/strided-base-reinterpret-boolean": "^0.0.2",
     "@stdlib/strided-base-reinterpret-complex128": "^0.2.2",
     "@stdlib/strided-base-reinterpret-complex64": "^0.2.1",
@@ -52,9 +52,9 @@
   "devDependencies": {
     "@stdlib/array-base-accessor": "^0.2.2",
     "@stdlib/array-base-zeros": "^0.2.2",
-    "@stdlib/array-bool": "^0.1.0",
-    "@stdlib/array-complex128": "^0.3.0",
-    "@stdlib/array-complex64": "^0.3.0",
+    "@stdlib/array-bool": "^0.1.1",
+    "@stdlib/array-complex128": "^0.3.1",
+    "@stdlib/array-complex64": "^0.3.1",
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/assert-is-boolean": "^0.2.2",
