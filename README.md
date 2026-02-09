@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasAlmostEqualValues from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-has-almost-equal-values@esm/index.mjs';
+import hasAlmostEqualValues from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-has-almost-equal-values@v0.1.1-esm/index.mjs';
 ```
 
 #### hasAlmostEqualValues( x, y, maxULP )
@@ -100,7 +100,7 @@ var bool = hasAlmostEqualValues( x, y, 1 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex128@esm/index.mjs';
-import hasAlmostEqualValues from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-has-almost-equal-values@esm/index.mjs';
+import hasAlmostEqualValues from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-has-almost-equal-values@v0.1.1-esm/index.mjs';
 
 var buf = uniform( 10, 0, 10 );
 // returns <Float64Array>
