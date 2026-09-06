@@ -1,0 +1,109 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-06)
+
+<section class="features">
+
+### Features
+
+-   [`9dcb954`](https://github.com/stdlib-js/stdlib/commit/9dcb95400559523692b16d156e31df5a72308105) - add float16 dtype support to `array/base/assert/has-almost-equal-values` [(#15027)](https://github.com/stdlib-js/stdlib/pull/15027)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9dcb954`](https://github.com/stdlib-js/stdlib/commit/9dcb95400559523692b16d156e31df5a72308105) - **feat:** add float16 dtype support to `array/base/assert/has-almost-equal-values` [(#15027)](https://github.com/stdlib-js/stdlib/pull/15027) _(by Gururaj Gurram)_
+-   [`00885d3`](https://github.com/stdlib-js/stdlib/commit/00885d3e6afd8118ce2b6e5f7a1c544d5b6d4ffb) - **bench:** refactor to use string interpolation in `array` [(#11411)](https://github.com/stdlib-js/stdlib/pull/11411) _(by Karan Anand, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gururaj Gurram
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
+## 0.1.1 (2026-02-08)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2026-01-31)
+
+<section class="features">
+
+### Features
+
+-   [`fee6898`](https://github.com/stdlib-js/stdlib/commit/fee68983980c006c27c7f1f5d1f3f11b20602974) - add `array/base/assert/has-almost-equal-values`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ac0438f`](https://github.com/stdlib-js/stdlib/commit/ac0438f675d717acdd81ffe3965e681999f352b9) - **bench:** refactor to use string interpolation in `array/base/assert/has-almost-equal-values` [(#8690)](https://github.com/stdlib-js/stdlib/pull/8690) _(by Rohit R Bhat)_
+-   [`5388bba`](https://github.com/stdlib-js/stdlib/commit/5388bba36044d2de93dacb0134c6e5539b02928c) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`fee6898`](https://github.com/stdlib-js/stdlib/commit/fee68983980c006c27c7f1f5d1f3f11b20602974) - **feat:** add `array/base/assert/has-almost-equal-values` _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Rohit R Bhat
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
